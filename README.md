@@ -1,1 +1,1 @@
-CQSRS Project
+CQRS Project
